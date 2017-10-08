@@ -15,6 +15,8 @@ namespace Rectangle_Area
             var area = weight * height;
 
             Console.WriteLine($"{area:f2}");
+            Console.WriteLine($"{area:f2}");
+
         }
     }
 }
